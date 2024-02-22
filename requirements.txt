@@ -2,3 +2,5 @@ This is a chat application.
 features-
 emoji
 type option
+dark mode
+chatbot
